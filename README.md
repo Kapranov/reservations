@@ -1,5 +1,4 @@
-Create simple application for restaurant tables reservations.
--------------------------------------------------------------
+### Create simple application for restaurant tables reservations.
 
 * Write a migration and ActiveRecord model that tracks restaurant
   reservations.
