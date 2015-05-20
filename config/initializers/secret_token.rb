@@ -1,0 +1,1 @@
+Reservations::Application.config.secret_token = '2af0ce5717e5b9f6e24a25d38854976179f2aef6cdfa686e9ef53d31baec201db175e084ee6f3e362b5208190ce6ea38224434a3f6f2faa1a2534cd97407fddb'
