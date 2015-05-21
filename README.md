@@ -1,3 +1,4 @@
+## Reservetions version APIs
 ### Create simple application for restaurant tables reservations.
 
 * Write a migration and ActiveRecord model that tracks restaurant
@@ -14,4 +15,4 @@ creation and updates.
 
 #### for luliia.Nievierova@globallogic.com
 
-### 20 May 2015 Oleg G.Kapranov
+### 21 May 2015 Oleg G.Kapranov
