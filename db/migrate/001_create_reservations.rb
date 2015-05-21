@@ -2,8 +2,8 @@ class CreateReservations < ActiveRecord::Migration
   def change
     create_table :reservations do |t|
       t.integer :table
-      t.date :start
-      t.date :end
+      t.datetime :start
+      t.datetime :end
 
       t.timestamps null: false
     end
